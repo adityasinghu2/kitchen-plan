@@ -18,6 +18,6 @@
    into this file. Those bypass all security.                                */
 
 window.KITCHEN_CONFIG = {
-  supabaseUrl: 'https://vkhehrrusfxwryjprvwz.supabase.co/rest/v1/',
+  supabaseUrl: 'https://vkhehrrusfxwryjprvwz.supabase.co',
   supabaseKey: 'sb_publishable_mWPIXuO4PZ3kLIkSuuft3A_Vg1-7v0i'
 };
